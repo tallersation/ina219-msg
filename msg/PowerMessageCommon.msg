@@ -1,0 +1,7 @@
+float64 vin_p
+float64 vin_n
+float64 shunt_voltage
+float64 shunt_current
+float64 power_calc
+float64 power_register
+bool is_pluging
